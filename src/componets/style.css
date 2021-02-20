@@ -1,0 +1,9 @@
+.myptag{
+    text-align: left;
+}
+.mydiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
